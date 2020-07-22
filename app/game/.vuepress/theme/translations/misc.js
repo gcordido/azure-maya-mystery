@@ -6,6 +6,7 @@ export default {
 		loginwelcome: 'Welcome back!',
 		registerwelcome: 'Welcome! Please login!',
 		myadventure: 'My Adventure',
+		level: 'Level',
 	},
 	fr: {
 		login: "S'identifier",
@@ -14,14 +15,16 @@ export default {
 		loginwelcome: 'Nous saluons le retour!',
 		registerwelcome: 'Bienvenue! Veuillez vous connecter!',
 		myadventure: 'Mon aventure',
+		level: 'Niveau',
 	},
 	es: {
-		login: 'Login',
+		login: 'Iniciar Sesión',
 		register: 'Registrar',
-		takepic: '¿Toma una foto?',
-		loginwelcome: '¡Dar una buena acogida!',
+		takepic: '¿Tomar una foto?',
+		loginwelcome: '¡Bienvenido de vuelta!',
 		registerwelcome: '¡Bienvenidos! ¡Por favor Iniciar sesión!',
 		myadventure: 'Mi aventura',
+		level: 'Nivel',
 	},
 	pt: {
 		login: 'Login',
@@ -30,5 +33,6 @@ export default {
 		loginwelcome: 'Bem vindo de volta!',
 		registerwelcome: 'Bem-vinda! Por favor entre!',
 		myadventure: 'Minha aventura',
+		level: 'Nível',
 	},
 };
